@@ -1,4 +1,4 @@
-# Adedamola Adegoke
+# Adedamola Ayodeji Adegoke
 
 I'm a highly motivated software developer with experience in SQL, java(Spring framework),C#, python and javascript. I'm a team player with solid communication and problem-solving skills, passionate about technology and how it relates to the company and customer satisfaction. Fluent in English, and I have experience working in international environments.
 
